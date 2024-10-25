@@ -15,5 +15,16 @@ Necessário para executar o projeto
 Após Rodar o Projeto
  - Para executar o crud de produtos utilizar a controller Auth e gerar um token:
  - Chave para Gerar o token: Robbu
+ - É criado token do tipo Bearer
+
+Para criar o projeto utilizei um pouco de cada um dos itens abaixo.
+ - CQRS
+ - Clean Architecture
+ - Clean Code
+ - Conceitos Solid, como por exemplo Dependency Inversion Principle e Single Responsiblity Principle
+ - Entity Framework Core
+ - Mediator
+ - Token JTW
+
 
 
